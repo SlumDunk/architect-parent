@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/architect-concurrent/architect-concurrent.iml" filepath="$PROJECT_DIR$/architect-concurrent/architect-concurrent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/architect-jvm/architect-jvm.iml" filepath="$PROJECT_DIR$/architect-jvm/architect-jvm.iml" />
+      <module fileurl="file://$PROJECT_DIR$/architect-linux/architect-linux.iml" filepath="$PROJECT_DIR$/architect-linux/architect-linux.iml" />
+      <module fileurl="file://$PROJECT_DIR$/architect-mongodb/architect-mongodb.iml" filepath="$PROJECT_DIR$/architect-mongodb/architect-mongodb.iml" />
+      <module fileurl="file://$PROJECT_DIR$/architect-mysql/architect-mysql.iml" filepath="$PROJECT_DIR$/architect-mysql/architect-mysql.iml" />
+      <module fileurl="file://$PROJECT_DIR$/architect-network/architect-network.iml" filepath="$PROJECT_DIR$/architect-network/architect-network.iml" />
+      <module fileurl="file://$PROJECT_DIR$/architect-oracle/architect-oracle.iml" filepath="$PROJECT_DIR$/architect-oracle/architect-oracle.iml" />
+      <module fileurl="file://$PROJECT_DIR$/architect-parent.iml" filepath="$PROJECT_DIR$/architect-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/architect-redis/architect-redis.iml" filepath="$PROJECT_DIR$/architect-redis/architect-redis.iml" />
+    </modules>
+  </component>
+</project>

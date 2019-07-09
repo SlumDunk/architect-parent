@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="architect-concurrent" />
+        <module name="architect-jvm" />
+        <module name="architect-linux" />
+        <module name="architect-mongodb" />
+        <module name="architect-mysql" />
+        <module name="architect-network" />
+        <module name="architect-oracle" />
+        <module name="architect-orcacle" />
+        <module name="architect-redis" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel target="1.8">
+      <module name="architect-concurrent" target="1.8" />
+      <module name="architect-jvm" target="1.7" />
+      <module name="architect-linux" target="1.5" />
+      <module name="architect-mongodb" target="1.5" />
+      <module name="architect-mysql" target="1.5" />
+      <module name="architect-network" target="1.7" />
+      <module name="architect-oracle" target="1.5" />
+      <module name="architect-orcacle" target="1.5" />
+      <module name="architect-parent" target="1.5" />
+      <module name="architect-redis" target="1.7" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
